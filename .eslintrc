@@ -12,7 +12,8 @@
     "indent": "off",
     "require-jsdoc": "off",
     "operator-linebreak": "off",
-    "valid-jsdoc": "off"
+    "valid-jsdoc": "off",
+    "space-before-function-paren": "off"
   },
   "extends": [
     "eslint:recommended",
